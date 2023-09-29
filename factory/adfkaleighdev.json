@@ -1,0 +1,9 @@
+{
+	"name": "adfkaleighdev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7b97ab9d-6aa5-4132-9154-53678ec3d68c",
+		"tenantId": "8825526d-8798-413d-b8ae-92c649fba716"
+	}
+}
